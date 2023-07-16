@@ -14,3 +14,6 @@ Roadmap:
 6. OOP by making a book review list
 7. GUI with Tkinter
 8. Pivot to learning HTML,CSS, and Javascript
+9. Make a site that interacts with an API you find interesting
+10. Make a database to store books you want to read and have a web app with it
+11. Make a personal website
