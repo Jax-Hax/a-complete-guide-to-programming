@@ -12,3 +12,5 @@ Roadmap:
 3. Learn lists and functions by making hangman then blackjack
 5. Learn libraries by making a selenium client to interact with goodreads and lookup by author from command line
 6. OOP by making a book review list
+7. GUI with Tkinter
+8. Pivot to learning HTML,CSS, and Javascript
